@@ -1,0 +1,3 @@
+users, db/users.csv
+products, db/products.csv
+orders, db/orders.csv
